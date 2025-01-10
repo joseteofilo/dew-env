@@ -1,0 +1,6 @@
+name: knime_infoextractenv_test2
+channels:
+  - defaults
+dependencies:
+  - python=3.11.9
+  - pip

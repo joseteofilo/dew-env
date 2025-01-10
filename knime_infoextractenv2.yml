@@ -3,7 +3,6 @@ channels:
   - conda-forge
   - anaconda
   - defaults
-  - knime  
 dependencies:
   - knime-python-base 
   - python=3.11.9
